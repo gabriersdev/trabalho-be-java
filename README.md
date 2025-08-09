@@ -1,5 +1,7 @@
 # API REST para CRUD de tarefas
 
+[Documentação dos endpoints e funcionalidades da API](https://gabriersdev.github.io/trabalho-be-java/)
+
 ## Sobre
 
 - A API deve ser feita com SB em Java
